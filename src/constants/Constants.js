@@ -19,8 +19,6 @@ import Shutters from "./ImagenLinksShutter";
 import Toldos from "./ImagenLinksToldos";
 import Palilleria from "./ImagenLinksPalilleria";
 import PisosVinilico from "./ImagenLinksPisos";
-import shutter from "../Shutters/Shutters";
-import pisos from "../Pisos/Pisos";
 export const DECOLAMI_TITLE = "Decolami RD | ";
 
 export const DESCRIPCION_SHUTTER =
