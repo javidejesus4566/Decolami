@@ -1,0 +1,15 @@
+/* .img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: scale-down;
+}
+
+.width {
+  width: 20rem;
+} */
+
+@media  (min-width: 393px) {
+  #Area{
+    padding-left: 25px;
+  }
+}
