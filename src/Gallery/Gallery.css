@@ -8,8 +8,8 @@
   width: 20rem;
 } */
 
-@media  (min-width: 393px) {
-  #Area{
-    padding-left: 25px;
+@media (min-width: 200px) {
+  #Area {
+    padding-left: 15px;
   }
 }

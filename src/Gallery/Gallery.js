@@ -26,9 +26,9 @@ class Gallery extends Component {
       //   </div>
       // </div >
       <>
-        <Col md={6} lg={4} id="Area"  >
+        <Col md={6} lg={4} sm={12} xs={12} id="Area"  >
           <Container >
-            <Card key={element.id} style={{ width: '20rem', border: '0px', paddingRight: "15px", paddingLeft: "15px", backgroundColor: "transparent" }} mt>
+            <Card key={element.id} style={{ width: '20rem', border: '0px', paddingRight: "10px", paddingLeft: "10px", backgroundColor: "transparent" }} mt>
               <Card.Img variant="top" height={250} width={250} src={element.img} style={{ backgroundColor: "transparent" }} />
               <Card.Body>
                 <Card.Title style={{ fontSize: "18px" }}>
@@ -36,10 +36,10 @@ class Gallery extends Component {
                     {element.title}
                   </strong>
                 </Card.Title>
-                <Card.Text style={{ height: "130px", paddingTop: "5px" }}>
+                <Card.Text style={{ height: "100px", fontSize: "14px", paddingTop: "5px" }}>
                   {element.text}
                 </Card.Text>
-                <Card.Footer style={{ height: "150px", backgroundColor: "transparent", border: 'none' }} >
+                <Card.Footer style={{ height: "150px", backgroundColor: "transparent", border: 'none', justifyContent: 'Center', alignItems: 'Center', alignContent: 'flex-start' }} >
                   {this.renderBotton(element.link, element.title)}
                 </Card.Footer>
               </Card.Body>
