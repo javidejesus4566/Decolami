@@ -48,9 +48,9 @@ const Header = () => {
               <DecoRoute path="/mallas" text="Mallas"></DecoRoute>
               <DecoRoute path="/laminados/Laminados Decorativos" text="Laminados"></DecoRoute>
               <DecoRoute path="/cortinas/Cortinas Enrollables" text="Cortinas"></DecoRoute>
-              <DecoRoute path="/shutter" text="Shutter"></DecoRoute>
+              <DecoRoute path="/shutter" text="Shutters"></DecoRoute>
               <DecoRoute path="/toldos" text="Toldos"></DecoRoute>
-              <DecoRoute path="/palillera" text="Palillera"></DecoRoute>
+              <DecoRoute path="/palillera" text="Palilleras"></DecoRoute>
               <DecoRoute path="/pisos" text="Pisos"></DecoRoute>
               <DecoRoute path="/sobreNosotros" text="Sobre Nosotros"></DecoRoute>
               <DecoRoute path="/contactUs" text="Contáctanos"></DecoRoute>
