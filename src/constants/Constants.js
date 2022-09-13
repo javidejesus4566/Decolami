@@ -435,37 +435,37 @@ export const PALILLERIA = [
 ]
 
 export const CATEGORIAS = [
-  {
-    img: Shutters[3],
-    title: "Shutters",
-    text: "Adquiere mas privacidad y Protégete ante las amenaza de entrada de intrusos.",
-    id: "Shutter",
-    link: "/shutter",
-  },
+  // {
+  //   img: Shutters[3],
+  //   title: "Shutters",
+  //   text: "Adquiere mas privacidad y Protégete ante las amenaza de entrada de intrusos.",
+  //   id: "Shutter",
+  //   link: "/shutter",
+  // },
 
-  {
-    img: Toldos[3],
-    title: "Toldos Retractil",
-    text: "Toldos retractil son ideales para disfrutar de la vista de una terraza o ventana, sin necesidad de recibir directamente los rayos uv.",
-    id: "Toldos",
-    link: "/toldos",
-  },
+  // {
+  //   img: Toldos[3],
+  //   title: "Toldos Retractil",
+  //   text: "Toldos retractil son ideales para disfrutar de la vista de una terraza o ventana, sin necesidad de recibir directamente los rayos uv.",
+  //   id: "Toldos",
+  //   link: "/toldos",
+  // },
 
-  {
-    img: Palilleria[3],
-    title: "Palillera",
-    text: "El toque de elegancia y confort que necesita su ambiente exterior lo consigue con una palilleria.",
-    id: "palillera",
-    link: "/palillera",
-  },
+  // {
+  //   img: Palilleria[3],
+  //   title: "Palillera",
+  //   text: "El toque de elegancia y confort que necesita su ambiente exterior lo consigue con una palilleria.",
+  //   id: "palillera",
+  //   link: "/palillera",
+  // },
 
-  {
-    img: PisosVinilico[3],
-    title: "Pisos laminados",
-    text: "Pisos de vinil, laminados y de madera para uso comercial, hotelero y recidencial.",
-    id: "Pisos",
-    link: "/pisos",
-  },
+  // {
+  //   img: PisosVinilico[3],
+  //   title: "Pisos laminados",
+  //   text: "Pisos de vinil, laminados y de madera para uso comercial, hotelero y recidencial.",
+  //   id: "Pisos",
+  //   link: "/pisos",
+  // },
   {
     img: cortinasEnrollables[1],
     title: "Cortinas Enrollables",
