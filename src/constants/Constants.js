@@ -358,11 +358,11 @@ export const PISOS = [
     text: "",
     id: "pisos3",
   },
-  // {
-  //   img: PisosVinilico[3],
-  //   text: "",
-  //   id: "pisos4",
-  // },
+  {
+    img: PisosVinilico[3],
+    text: "",
+    id: "pisos4",
+  },
 ]
 
 export const SHUTTERS = [
@@ -381,11 +381,11 @@ export const SHUTTERS = [
     text: "",
     id: "shutter3",
   },
-  // {
-  //   img: Shutters[3],
-  //   text: "",
-  //   id: "shutter4",
-  // },
+  {
+    img: Shutters[3],
+    text: "",
+    id: "shutter4",
+  },
 ]
 
 export const TOLDOS = [
@@ -404,11 +404,11 @@ export const TOLDOS = [
     text: "",
     id: "toldos3",
   },
-  // {
-  //   img: Toldos[3],
-  //   text: "",
-  //   id: "toldos4",
-  // },
+  {
+    img: Toldos[3],
+    text: "",
+    id: "toldos4",
+  },
 ]
 
 export const PALILLERIA = [
@@ -427,11 +427,11 @@ export const PALILLERIA = [
     text: "",
     id: "palilleria3",
   },
-  // {
-  //   img: Palilleria[3],
-  //   text: "",
-  //   id: "palilleria4",
-  // },
+  {
+    img: Palilleria[3],
+    text: "",
+    id: "palilleria4",
+  },
 ]
 
 export const CATEGORIAS = [
