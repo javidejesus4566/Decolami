@@ -490,6 +490,13 @@ export const CATEGORIAS = [
     id: "persianas",
   },
 
+  {
+    img: cortinasPermas[3],
+    title: "Cortinas Permas",
+    text: "Fabricadas en Vision Solar Screen de alta resistencia, el cual bloquea el agua de lluvia y reduce los rayos solares en hasta un 80%.",
+    id: "Permas",
+    link: "/cortinas",
+  },
 ];
 
 export const CARD_EXAMPLE = [
@@ -501,7 +508,7 @@ export const CARD_EXAMPLE = [
     link: "/cortinas",
   },
   {
-    img: cortinasPermas[3],
+    img: cortinasPermas[0],
     title: "Cortinas Permas",
     text: "Fabricadas en Vision Solar Screen de alta resistencia, el cual bloquea el agua de lluvia y reduce los rayos solares en hasta un 80%.",
     id: "Permas",

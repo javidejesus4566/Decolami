@@ -20,27 +20,27 @@ const Header = () => {
               <Image
                 src={decolamiLogo}
                 style={{
-                  maxHeight: "250px",
-                  maxWidth: "250px"
+                  maxHeight: "180px",
+                  maxWidth: "180px"
                 }}
                 href="/inicio"
                 fluid />
             </Col>
             <Col xs={12} md={4}>
-              <Container>
+              <Container style={{ paddingTop: "0px" }}>
                 <ContactPanel contacts={CONTACT_PANEL} />
               </Container>
 
             </Col>
             <Col xs={12} md={4}>
-              <Container style={{ paddingTop: "40px" }}>
+              <Container style={{ paddingTop: "30px" }}>
                 <SocialBar />
               </Container>
             </Col>
           </Row>
         </Container>
         <Navbar expand="lg" className="justify-content-center ">
-          <Navbar.Toggle aria-controls="basic-navbar-nav  justify-content-rigth " id="toggle" />
+          <Navbar.Toggle aria-controls="basic-navbar-nav  justify-content-center " id="toggle" />
           <Navbar.Collapse id="basic-navbar-nav"  >
             <Nav
             >
