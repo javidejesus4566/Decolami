@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Decolani/static/css/main.95d77415.chunk.css",
-    "main.js": "/Decolani/static/js/main.eee486e0.chunk.js",
-    "main.js.map": "/Decolani/static/js/main.eee486e0.chunk.js.map",
+    "main.css": "/Decolani/static/css/main.c9376288.chunk.css",
+    "main.js": "/Decolani/static/js/main.3e524fbe.chunk.js",
+    "main.js.map": "/Decolani/static/js/main.3e524fbe.chunk.js.map",
     "runtime-main.js": "/Decolani/static/js/runtime-main.c9d56af7.js",
     "runtime-main.js.map": "/Decolani/static/js/runtime-main.c9d56af7.js.map",
     "static/css/2.39c32a3f.chunk.css": "/Decolani/static/css/2.39c32a3f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.54b68817.chunk.js.map": "/Decolani/static/js/3.54b68817.chunk.js.map",
     "index.html": "/Decolani/index.html",
     "static/css/2.39c32a3f.chunk.css.map": "/Decolani/static/css/2.39c32a3f.chunk.css.map",
-    "static/css/main.95d77415.chunk.css.map": "/Decolani/static/css/main.95d77415.chunk.css.map",
+    "static/css/main.c9376288.chunk.css.map": "/Decolani/static/css/main.c9376288.chunk.css.map",
     "static/js/2.d8565970.chunk.js.LICENSE.txt": "/Decolani/static/js/2.d8565970.chunk.js.LICENSE.txt",
     "static/media/20180829_104601.8e5c56dc.jpg": "/Decolani/static/media/20180829_104601.8e5c56dc.jpg",
     "static/media/20180829_104624.10d72c2a.jpg": "/Decolani/static/media/20180829_104624.10d72c2a.jpg",
@@ -37,7 +37,9 @@
     "static/media/cortinas-enrollables-1.aba3aa8a.jpg": "/Decolani/static/media/cortinas-enrollables-1.aba3aa8a.jpg",
     "static/media/cortinas-enrollables-2.dfb172d3.jpg": "/Decolani/static/media/cortinas-enrollables-2.dfb172d3.jpg",
     "static/media/cortinas-enrollables-3.5ff8a548.png": "/Decolani/static/media/cortinas-enrollables-3.5ff8a548.png",
-    "static/media/cortinas-permas-0.e813dc4b.jpg": "/Decolani/static/media/cortinas-permas-0.e813dc4b.jpg",
+    "static/media/cortinas-permas-0.9de6f60b.jpg": "/Decolani/static/media/cortinas-permas-0.9de6f60b.jpg",
+    "static/media/cortinas-permas-2.03a6d244.jpg": "/Decolani/static/media/cortinas-permas-2.03a6d244.jpg",
+    "static/media/cortinas-permas-3.03a6d244.jpg": "/Decolani/static/media/cortinas-permas-3.03a6d244.jpg",
     "static/media/cortinas-permas-5.becd5017.jpg": "/Decolani/static/media/cortinas-permas-5.becd5017.jpg",
     "static/media/cortinas-permas-6.63beaebd.jpeg": "/Decolani/static/media/cortinas-permas-6.63beaebd.jpeg",
     "static/media/cortinas-romanas-0.258f309b.jpg": "/Decolani/static/media/cortinas-romanas-0.258f309b.jpg",
@@ -82,7 +84,7 @@
     "static/js/runtime-main.c9d56af7.js",
     "static/css/2.39c32a3f.chunk.css",
     "static/js/2.d8565970.chunk.js",
-    "static/css/main.95d77415.chunk.css",
-    "static/js/main.eee486e0.chunk.js"
+    "static/css/main.c9376288.chunk.css",
+    "static/js/main.3e524fbe.chunk.js"
   ]
 }
