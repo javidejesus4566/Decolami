@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Decolani/static/css/main.6c9a81fc.chunk.css",
+    "main.css": "/Decolani/static/css/main.a7c55eef.chunk.css",
     "main.js": "/Decolani/static/js/main.9eb84e9b.chunk.js",
     "main.js.map": "/Decolani/static/js/main.9eb84e9b.chunk.js.map",
     "runtime-main.js": "/Decolani/static/js/runtime-main.c9d56af7.js",
@@ -12,7 +12,7 @@
     "static/js/3.54b68817.chunk.js.map": "/Decolani/static/js/3.54b68817.chunk.js.map",
     "index.html": "/Decolani/index.html",
     "static/css/2.39c32a3f.chunk.css.map": "/Decolani/static/css/2.39c32a3f.chunk.css.map",
-    "static/css/main.6c9a81fc.chunk.css.map": "/Decolani/static/css/main.6c9a81fc.chunk.css.map",
+    "static/css/main.a7c55eef.chunk.css.map": "/Decolani/static/css/main.a7c55eef.chunk.css.map",
     "static/js/2.d8565970.chunk.js.LICENSE.txt": "/Decolani/static/js/2.d8565970.chunk.js.LICENSE.txt",
     "static/media/20180829_104601.8e5c56dc.jpg": "/Decolani/static/media/20180829_104601.8e5c56dc.jpg",
     "static/media/20180829_104624.10d72c2a.jpg": "/Decolani/static/media/20180829_104624.10d72c2a.jpg",
@@ -84,7 +84,7 @@
     "static/js/runtime-main.c9d56af7.js",
     "static/css/2.39c32a3f.chunk.css",
     "static/js/2.d8565970.chunk.js",
-    "static/css/main.6c9a81fc.chunk.css",
+    "static/css/main.a7c55eef.chunk.css",
     "static/js/main.9eb84e9b.chunk.js"
   ]
 }
