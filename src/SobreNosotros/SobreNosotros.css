@@ -10,4 +10,13 @@ h3 {
 
 .year {
   font-weight: bold;
+  padding-right: 65px !important;
+}
+
+.pad70 {
+  padding-right: 65px !important;
+}
+
+.pad50 {
+  padding-right: 55px !important;
 }

@@ -38,11 +38,11 @@ const ContactForm = () => {
               <ContactPanel color="black" contacts={PHONE_CONTACT2} />
             </Container>
           </Col>
-          <Col xs={10} md={8}>
+          <Col xs={12}>
             <div className='ContactForm'>
               <div className='container'>
                 <div className='row'>
-                  <div className='col-12 '>
+                  <div className='col-md-12' style={{ paddingLeft: "10px" }}>
                     <div className='contactForm'>
                       <h3>Correo Electronico</h3>
                       <form id='contact-form' onSubmit={handleSubmit(onSubmit)}>

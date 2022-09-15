@@ -501,17 +501,60 @@ export const CATEGORIAS = [
 
 export const CARD_EXAMPLE = [
   {
-    img: cortinasRom[0],
-    title: "Cortinas Romanas",
-    text: "Ideal para cualquier ambiente, además de tener un diseño moderno en tu decoración, son las más prácticas, sencillas y elegantes.",
-    id: "zebra",
-    link: "/cortinas",
+    img: Toldos[3],
+    title: "Toldos Retractil",
+    text: "Toldos retractil son ideales para disfrutar de la vista de una terraza o ventana, sin necesidad de recibir directamente los rayos uv.",
+    id: "Toldos",
+    link: "/toldos",
   },
   {
     img: cortinasPermas[0],
     title: "Cortinas Permas",
     text: "Fabricadas en Vision Solar Screen de alta resistencia, el cual bloquea el agua de lluvia y reduce los rayos solares en hasta un 80%.",
     id: "Permas",
+    link: "/cortinas",
+  },
+  {
+    img: Shutters[3],
+    title: "Shutters",
+    text: "Adquiere mas privacidad y Protégete ante las amenaza de entrada de intrusos.",
+    id: "Shutter",
+    link: "/shutter",
+  },
+  {
+    img: cortinasNeoluxZebras[1],
+    text: "Proveen excelente manejo gradual de luz, ya sea que desee privacidad total, parcial o gran cantidad de luz y visibilidad.",
+    title: "Cortinas Zebra",
+    id: "zebra",
+    link: "/cortinas",
+  },
+
+  {
+    img: Palilleria[3],
+    title: "Palillera",
+    text: "El toque de elegancia y confort que necesita su ambiente exterior lo consigue con una palilleria.",
+    id: "palillera",
+    link: "/palillera",
+  },
+  {
+    img: cortinasEnrollables[2],
+    title: "Cortinas Enrollables",
+    text: "Screen que permite el paso de la luz, así como tejidos translúcidos y oscureciendo totalmente con las líneas de blackout.",
+    id: "Enrollables",
+    link: "/cortinas",
+  },
+  {
+    img: PisosVinilico[3],
+    title: "Pisos laminados",
+    text: "Pisos de vinil, laminados y de madera para uso comercial, hotelero y recidencial.",
+    id: "Pisos",
+    link: "/pisos",
+  },
+  {
+    img: persianasVenecianas[1],
+    title: "Cortinas Venecianas",
+    text: "Brindan un toque cálido y tradicional a cualquier espacio interior residencial, hospitalario o corporativo con un excelente control gradual de luz.",
+    id: "Venencianas",
     link: "/cortinas",
   },
   {
@@ -523,9 +566,9 @@ export const CARD_EXAMPLE = [
   },
 
   {
-    img: cortinasNeoluxZebras[1],
-    text: "Proveen excelente manejo gradual de luz, ya sea que desee privacidad total, parcial o gran cantidad de luz y visibilidad.",
-    title: "Cortinas Zebra",
+    img: cortinasRom[0],
+    title: "Cortinas Romanas",
+    text: "Ideal para cualquier ambiente, además de tener un diseño moderno en tu decoración, son las más prácticas, sencillas y elegantes.",
     id: "zebra",
     link: "/cortinas",
   },
@@ -536,27 +579,13 @@ export const CARD_EXAMPLE = [
     id: "laminadosDecorativos2",
     link: "/laminados",
   },
-  {
-    img: cortinasEnrollables[2],
-    title: "Cortinas Enrollables",
-    text: "Screen que permite el paso de la luz, así como tejidos translúcidos y oscureciendo totalmente con las líneas de blackout.",
-    id: "Enrollables",
-    link: "/cortinas",
-  },
+
 
   {
     img: cortinasCap[0],
     title: "Cortinas Capriccio",
     text: "Modelo de cortina enrollable similar a las Triple Shade pero con otra variante de apertura y Cuenta de dos telas, una opaca y una transparente tipo visillo",
     id: "Capriccio",
-    link: "/cortinas",
-  },
-
-  {
-    img: persianasVenecianas[1],
-    title: "Cortinas Venecianas",
-    text: "Brindan un toque cálido y tradicional a cualquier espacio interior residencial, hospitalario o corporativo con un excelente control gradual de luz.",
-    id: "Venencianas",
     link: "/cortinas",
   },
 
@@ -575,38 +604,6 @@ export const CARD_EXAMPLE = [
     text: "Es una cortina especialmente diseñada, una solución perfecta cuando se trata de ambientar grandes ventanales y puertas corredizas.",
     id: "Triple",
     link: "/cortinas",
-  },
-
-  {
-    img: Shutters[3],
-    title: "Shutters",
-    text: "Adquiere mas privacidad y Protégete ante las amenaza de entrada de intrusos.",
-    id: "Shutter",
-    link: "/shutter",
-  },
-
-  {
-    img: Toldos[3],
-    title: "Toldos Retractil",
-    text: "Toldos retractil son ideales para disfrutar de la vista de una terraza o ventana, sin necesidad de recibir directamente los rayos uv.",
-    id: "Toldos",
-    link: "/toldos",
-  },
-
-  {
-    img: Palilleria[3],
-    title: "Palillera",
-    text: "El toque de elegancia y confort que necesita su ambiente exterior lo consigue con una palilleria.",
-    id: "palillera",
-    link: "/palillera",
-  },
-
-  {
-    img: PisosVinilico[3],
-    title: "Pisos laminados",
-    text: "Pisos de vinil, laminados y de madera para uso comercial, hotelero y recidencial.",
-    id: "Pisos",
-    link: "/pisos",
   },
 
 
