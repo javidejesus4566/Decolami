@@ -1,5 +1,5 @@
 # Decolani
- WebPage Decolani
+ WebPage Decolami
  
 # Getting Started with Create React App
 
